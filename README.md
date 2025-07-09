@@ -1,2 +1,2 @@
 # This is my local repo
-# Some options are not working that why i'm doing this
+# Some options are not working that's why i'm doing this
